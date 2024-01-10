@@ -83,6 +83,7 @@
       diastolicbp: {value: ''},
       ldl: {value: ''},
       hdl: {value: ''},
+      vaccineCode: {value: ''},
     };
   }
 
